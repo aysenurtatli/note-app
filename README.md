@@ -48,15 +48,15 @@ A beautiful, full-stack note-taking application built with **Next.js 16**, **Typ
 
 ### Home Page
 
-Beautiful landing page with gradient background and call-to-action buttons.
+![Beautiful landing page with gradient background and call-to-action buttons.](./public/images/screenshots/homepage.png)
 
 ### Notes List
 
-Grid layout with colorful sticky notes, search functionality, and smooth hover effects.
+![Grid layout with colorful sticky notes, search functionality, and smooth hover effects.](./public/images/screenshots/notes-list.png)
 
 ### Note Editor
 
-Full-featured editor with character counters, auto-save detection, and keyboard shortcuts.
+![Full-featured editor with character counters, auto-save detection, and keyboard shortcuts.](./public/images/screenshots/note-editor.png)
 
 ## 🛠️ Tech Stack
 
